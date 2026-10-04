@@ -1,0 +1,2451 @@
+NEXORA TECHNOLOGIES PRIVATE LIMITED
+
+EMPLOYEE HANDBOOK
+AND
+PEOPLE OPERATIONS POLICY MANUAL
+
+Document ID: NEXORA-HR-HANDBOOK-2026
+Version: 4.2
+Effective Date: 1 October 2026
+Next Scheduled Review: 1 April 2027
+Document Owner: People Operations
+Approved By: Chief People Officer
+Classification: Internal Use Only
+
+IMPORTANT NOTICE
+
+This handbook contains fictional company policies created for internal training,
+testing, demonstration, and RAG chatbot development purposes.
+
+Nexora Technologies Private Limited is a fictional organization.
+
+Nothing in this document should be interpreted as legal advice or as an actual
+employment agreement.
+
+============================================================
+TABLE OF CONTENTS
+============================================================
+
+1. About Nexora Technologies
+2. Mission, Vision and Values
+3. Organization Structure
+4. Employment Categories
+5. Joining Nexora
+6. Employee Records
+7. Probation and Confirmation
+8. Working Hours
+9. Attendance
+10. Hybrid and Remote Work
+11. Work From Anywhere
+12. Leave Overview
+13. Annual Leave
+14. Sick Leave
+15. Casual Leave
+16. Parental Leave
+17. Maternity Leave
+18. Paternity Leave
+19. Adoption Leave
+20. Bereavement Leave
+21. Public Holidays
+22. Leave Without Pay
+23. Leave Approval Process
+24. Emergency Leave
+25. Performance Management
+26. Performance Reviews
+27. Performance Improvement Plan
+28. Promotions
+29. Internal Transfers
+30. Compensation
+31. Salary Payments
+32. Bonus and Variable Pay
+33. Overtime
+34. Expense Reimbursement
+35. Business Travel
+36. Learning and Development
+37. Education Assistance
+38. Employee Benefits
+39. Health Insurance
+40. Mental Health and Wellness
+41. Employee Assistance Program
+42. Internet and Mobile Reimbursement
+43. Equipment Policy
+44. Information Security
+45. Password and MFA Policy
+46. Acceptable Use of Technology
+47. Artificial Intelligence Usage
+48. Data Privacy
+49. Confidential Information
+50. Intellectual Property
+51. Open Source Software
+52. Social Media Policy
+53. Code of Conduct
+54. Respectful Workplace
+55. Anti-Harassment Policy
+56. Anti-Discrimination Policy
+57. Prevention of Sexual Harassment
+58. Conflicts of Interest
+59. Gifts and Entertainment
+60. Anti-Bribery and Corruption
+61. Whistleblower Policy
+62. Reporting Workplace Concerns
+63. Disciplinary Policy
+64. Investigation Process
+65. Corrective Actions
+66. Grievance Process
+67. Manager Responsibilities
+68. Employee Responsibilities
+69. Office Safety
+70. Emergency Procedures
+71. Drug and Alcohol Policy
+72. Dress and Professional Appearance
+73. Workplace Visitors
+74. Security and Access Cards
+75. Parking and Transportation
+76. Remote Workspace Security
+77. Travel Security
+78. Customer Interaction
+79. Media and Public Statements
+80. Company Events
+81. Employee Recognition
+82. Referral Program
+83. Internship Program
+84. Contractor Policy
+85. Separation from Employment
+86. Resignation
+87. Notice Period
+88. Exit Process
+89. Final Settlement
+90. Return of Company Property
+91. Employment Verification
+92. Rehire Policy
+93. Policy Exceptions
+94. Policy Changes
+95. Frequently Asked Questions
+96. HR Contact Directory
+97. Glossary
+
+
+============================================================
+1. ABOUT NEXORA TECHNOLOGIES
+============================================================
+
+Nexora Technologies Private Limited is a fictional technology company
+headquartered in Bengaluru, Karnataka, India.
+
+The company develops enterprise software, cloud infrastructure, artificial
+intelligence systems, workflow automation products, analytics platforms,
+developer tools, and cybersecurity solutions.
+
+Nexora was established in 2018 by a group of engineers and product
+professionals who wanted to build software that could reduce repetitive
+business work.
+
+The company initially operated as a small software consultancy and gradually
+transitioned into a product-focused technology organization.
+
+Nexora's major business areas include:
+
+- Cloud platforms
+- Artificial intelligence
+- Enterprise automation
+- Data engineering
+- Cybersecurity
+- Developer productivity
+- Business analytics
+- Customer experience software
+
+As of October 2026, Nexora has approximately 850 employees.
+
+Employees are distributed across:
+
+Bengaluru
+Hyderabad
+Pune
+Gurugram
+Chennai
+Remote locations across India
+
+The company also works with customers located in North America, Europe,
+Asia-Pacific, and the Middle East.
+
+
+============================================================
+2. COMPANY MISSION
+============================================================
+
+Nexora's mission is:
+
+"Build technology that makes complex work simple."
+
+The company believes technology should reduce unnecessary complexity while
+allowing people to focus on creative and meaningful work.
+
+Nexora's long-term vision is to become a trusted provider of intelligent
+software infrastructure for modern businesses.
+
+
+============================================================
+3. COMPANY VALUES
+============================================================
+
+Nexora operates according to six primary values.
+
+3.1 CUSTOMER FIRST
+
+Employees should understand customer problems before proposing solutions.
+
+Customer commitments should be treated seriously.
+
+Employees must not make promises to customers that they are not authorized
+to make.
+
+3.2 OWNERSHIP
+
+Employees are expected to take responsibility for their work.
+
+Ownership includes:
+
+- Meeting commitments
+- Communicating blockers
+- Taking responsibility for mistakes
+- Following through on assigned work
+- Asking for help when necessary
+
+3.3 LEARN CONTINUOUSLY
+
+Employees are encouraged to develop technical, professional, and leadership
+skills.
+
+Employees may participate in internal workshops, external courses,
+conferences, mentoring programs, and certification programs.
+
+3.4 RESPONSIBLE INNOVATION
+
+Nexora encourages experimentation.
+
+However, experimentation must respect:
+
+- Security
+- Privacy
+- Customer confidentiality
+- Intellectual property
+- Legal requirements
+- Internal approval processes
+
+3.5 RESPECT
+
+Employees must communicate respectfully regardless of role, seniority,
+location, gender, background, or professional experience.
+
+Disagreement is acceptable.
+
+Disrespectful behavior is not.
+
+3.6 TRANSPARENCY
+
+Employees should communicate relevant information honestly.
+
+Problems should be raised early rather than hidden until they become larger.
+
+
+============================================================
+4. ORGANIZATION STRUCTURE
+============================================================
+
+Nexora is organized into the following major functions:
+
+Engineering
+Product
+Design
+Data
+Security
+IT
+Sales
+Marketing
+Customer Success
+Finance
+Legal
+People Operations
+Recruiting
+Business Operations
+
+The executive leadership team includes:
+
+Chief Executive Officer
+Chief Technology Officer
+Chief Product Officer
+Chief Financial Officer
+Chief People Officer
+Chief Information Security Officer
+Chief Revenue Officer
+
+Every employee is assigned to a department and reporting manager.
+
+Employees may have a direct manager and a functional or project manager.
+
+
+============================================================
+5. EMPLOYMENT CATEGORIES
+============================================================
+
+Nexora uses several employment categories.
+
+FULL-TIME EMPLOYEE
+
+A full-time employee normally works 40 hours per week and receives benefits
+according to the applicable benefits plan.
+
+PART-TIME EMPLOYEE
+
+A part-time employee works fewer hours than the standard full-time schedule.
+
+Benefits may differ according to the employment agreement.
+
+FIXED-TERM EMPLOYEE
+
+A fixed-term employee is hired for a defined period.
+
+The employment agreement specifies the beginning and ending dates.
+
+INTERN
+
+Interns participate in structured learning and work programs.
+
+Intern benefits are defined separately in the internship agreement.
+
+CONSULTANT
+
+Consultants provide professional services under a consulting agreement.
+
+Consultants are generally not eligible for employee benefits unless
+specifically stated in their agreement.
+
+CONTRACTOR
+
+Contractors provide services under a contract.
+
+Contractors must follow applicable security, confidentiality, and workplace
+requirements.
+
+
+============================================================
+6. JOINING NEXORA
+============================================================
+
+New employees complete an onboarding process.
+
+The onboarding process generally includes:
+
+1. Offer acceptance
+2. Background verification where applicable
+3. Identity verification
+4. Payroll setup
+5. Benefits enrollment
+6. Equipment allocation
+7. Account creation
+8. Security training
+9. Policy acknowledgement
+10. Team introduction
+
+New employees must complete mandatory security and compliance training within
+30 days of joining.
+
+Employees may not receive access to certain production systems until required
+security training has been completed.
+
+
+============================================================
+7. EMPLOYEE RECORDS
+============================================================
+
+Employees must provide accurate personal information.
+
+Information may include:
+
+- Legal name
+- Residential address
+- Phone number
+- Personal email
+- Emergency contact
+- Bank account information
+- Tax information
+- Identification documents
+
+Employees must notify People Operations when important personal information
+changes.
+
+Examples include:
+
+- Change of address
+- Change of legal name
+- Change in emergency contact
+- Change in bank account
+- Change in tax information
+
+Employees should update information through the HR portal whenever possible.
+
+
+============================================================
+8. PROBATION
+============================================================
+
+The standard probation period for new full-time employees is six months.
+
+During probation, managers assess:
+
+- Job performance
+- Technical ability
+- Communication
+- Collaboration
+- Reliability
+- Attendance
+- Ownership
+- Learning ability
+- Compliance with company policies
+
+A manager may recommend confirmation before the end of the probation period
+when performance has been consistently strong.
+
+Probation may be extended when additional evaluation is required.
+
+An extension should normally be communicated in writing.
+
+Probation extension does not automatically mean that an employee's
+employment will be terminated.
+
+
+============================================================
+9. WORKING HOURS
+============================================================
+
+The standard work schedule is 40 hours per week.
+
+Standard office hours are:
+
+9:30 AM to 6:30 PM IST
+Monday through Friday
+
+This schedule includes a normal lunch break.
+
+Some departments may use different schedules.
+
+Examples include:
+
+Customer Support
+Security Operations
+Infrastructure Operations
+Global Sales
+International Customer Success
+
+Employees working alternative schedules will receive their applicable schedule
+from their manager.
+
+Core collaboration hours are:
+
+11:00 AM to 4:00 PM IST.
+
+Employees should normally be available during core collaboration hours unless
+they are on approved leave or have an approved alternative schedule.
+
+
+============================================================
+10. ATTENDANCE
+============================================================
+
+Employees are expected to attend work consistently.
+
+Employees should inform their manager before the start of the workday if they
+will be absent unexpectedly.
+
+For planned leave, employees should use the HR system.
+
+Repeated unexplained absence may result in corrective action.
+
+Attendance requirements may differ for shift-based employees.
+
+Employees must not intentionally record attendance on behalf of another
+employee.
+
+
+============================================================
+11. HYBRID WORK POLICY
+============================================================
+
+Nexora uses a hybrid working model for eligible teams.
+
+The standard hybrid arrangement requires employees to work from the office
+at least two days per week.
+
+Teams may establish additional office days when business requirements require
+in-person collaboration.
+
+Examples include:
+
+- Product planning
+- Customer workshops
+- Team planning
+- Security operations
+- Hardware testing
+- Company events
+
+Employees should follow their team's approved hybrid schedule.
+
+
+============================================================
+12. REMOTE WORK
+============================================================
+
+Employees approved for remote work remain responsible for the same performance
+and availability expectations as office-based employees.
+
+Remote employees must:
+
+- Maintain a secure workspace
+- Protect confidential information
+- Use company-approved devices
+- Maintain reasonable internet connectivity
+- Attend required meetings
+- Follow security policies
+- Remain reachable during agreed working hours
+
+Employees should avoid working from public places when handling confidential
+customer or company information.
+
+
+============================================================
+13. WORK FROM ANYWHERE
+============================================================
+
+Nexora allows temporary work from another location under specific conditions.
+
+Employees may request temporary work from another Indian city for up to
+30 calendar days per year.
+
+Approval from the manager is required.
+
+Longer arrangements require People Operations approval.
+
+Working from another country requires additional legal, tax, security, and
+employment review.
+
+Employees must not work internationally without written authorization.
+
+
+============================================================
+14. LEAVE OVERVIEW
+============================================================
+
+The standard leave categories are:
+
+Annual Leave: 24 days per year
+Sick Leave: 12 days per year
+Casual Leave: 6 days per year
+Parental Leave: 15 working days
+Bereavement Leave: up to 5 working days
+Maternity Leave: according to applicable law
+Adoption Leave: according to applicable policy
+
+Leave entitlements may be prorated for employees joining during the year.
+
+
+============================================================
+15. ANNUAL LEAVE
+============================================================
+
+Employees receive 24 days of paid annual leave per calendar year.
+
+Annual leave should normally be requested at least five working days in
+advance.
+
+Managers consider:
+
+- Team workload
+- Project deadlines
+- Existing leave
+- Customer commitments
+- Employee needs
+
+Managers should not unreasonably deny leave when adequate notice has been
+provided and business requirements can be managed.
+
+Up to 12 unused annual leave days may normally be carried into the next
+calendar year.
+
+Carry-forward rules are subject to applicable law and company policy.
+
+
+============================================================
+16. SICK LEAVE
+============================================================
+
+Employees receive 12 days of paid sick leave per year.
+
+Employees should inform their manager as soon as reasonably possible.
+
+For extended absence, People Operations may request appropriate medical
+documentation where legally permitted.
+
+Employees should not work while seriously ill when doing so would create
+health, safety, or performance concerns.
+
+
+============================================================
+17. CASUAL LEAVE
+============================================================
+
+Employees receive six days of casual leave per year.
+
+Casual leave may be used for:
+
+- Personal appointments
+- Family responsibilities
+- Urgent personal matters
+- Short-term emergencies
+- Other reasonable personal needs
+
+Employees should provide advance notice whenever practical.
+
+
+============================================================
+18. MATERNITY LEAVE
+============================================================
+
+Eligible employees receive maternity benefits in accordance with applicable
+Indian law and company policy.
+
+The standard policy provides up to 26 weeks of maternity leave for eligible
+employees where applicable.
+
+Employees should contact People Operations as early as reasonably possible
+to plan maternity leave.
+
+Managers must not discriminate against employees because they take legally
+protected maternity leave.
+
+
+============================================================
+19. PATERNITY AND PARENTAL LEAVE
+============================================================
+
+Eligible employees may receive 15 working days of paid parental leave.
+
+Parental leave may be used following:
+
+- Birth of a child
+- Adoption of a child
+- Other qualifying parental events
+
+Employees should normally use parental leave within three months of the
+qualifying event.
+
+Exceptions may be approved by People Operations.
+
+
+============================================================
+20. ADOPTION LEAVE
+============================================================
+
+Eligible employees adopting a child may receive paid adoption leave according
+to company policy and applicable law.
+
+Employees must provide required documentation to People Operations.
+
+Adoption leave should normally be requested before the expected placement
+date when possible.
+
+
+============================================================
+21. BEREAVEMENT LEAVE
+============================================================
+
+Employees may receive up to five working days of paid bereavement leave after
+the death of an immediate family member.
+
+Immediate family may include:
+
+- Parent
+- Spouse
+- Child
+- Sibling
+
+Additional leave may be approved depending on circumstances.
+
+
+============================================================
+22. LEAVE WITHOUT PAY
+============================================================
+
+Unpaid leave may be approved when:
+
+- Paid leave has been exhausted
+- A significant personal circumstance exists
+- Extended absence is required
+- The manager and People Operations approve the request
+
+Unpaid leave may affect salary, benefits, and other employment calculations.
+
+
+============================================================
+23. LEAVE APPROVAL PROCESS
+============================================================
+
+Employees should submit leave requests through the HR portal.
+
+The standard process is:
+
+Employee submits request
+        |
+        v
+Manager reviews request
+        |
+        v
+Manager approves or rejects
+        |
+        v
+HR system updates leave balance
+
+For extended leave, People Operations may also review the request.
+
+Employees should not assume that leave is approved until the request is
+approved in the HR system or confirmed by the authorized approver.
+
+
+============================================================
+24. EMERGENCY LEAVE
+============================================================
+
+Employees may take emergency leave when unexpected circumstances prevent
+them from working.
+
+Examples include:
+
+- Serious family emergency
+- Medical emergency
+- Accident
+- Major household emergency
+- Unexpected caregiving requirement
+
+Employees should notify their manager as soon as possible.
+
+Documentation may be requested for extended emergency leave.
+
+
+============================================================
+25. PERFORMANCE MANAGEMENT
+============================================================
+
+Nexora uses a continuous performance management model.
+
+Performance discussions should not occur only once per year.
+
+Managers are encouraged to provide regular feedback.
+
+Performance discussions may include:
+
+- Goals
+- Results
+- Strengths
+- Development areas
+- Collaboration
+- Leadership
+- Technical growth
+- Career goals
+
+
+============================================================
+26. PERFORMANCE REVIEWS
+============================================================
+
+Formal performance reviews are generally conducted twice per year.
+
+The standard review periods are:
+
+January to June
+July to December
+
+Employees may receive ratings or performance categories depending on the
+company's current review framework.
+
+Performance evaluation may consider:
+
+1. Achievement of goals
+2. Quality of work
+3. Impact
+4. Collaboration
+5. Ownership
+6. Communication
+7. Leadership
+8. Customer focus
+
+
+============================================================
+27. PERFORMANCE IMPROVEMENT PLAN
+============================================================
+
+A Performance Improvement Plan, commonly called a PIP, may be used when an
+employee's performance is consistently below expectations.
+
+A PIP normally includes:
+
+- Specific performance concerns
+- Expected improvement
+- Measurable objectives
+- Support provided
+- Review period
+- Check-in dates
+- Consequences of insufficient improvement
+
+A typical PIP lasts between 30 and 90 days.
+
+A PIP does not automatically mean that employment will end.
+
+Employees should receive an opportunity to understand expectations and improve.
+
+
+============================================================
+28. PROMOTIONS
+============================================================
+
+Promotions are based on factors including:
+
+- Sustained performance
+- Scope of responsibility
+- Demonstrated skills
+- Business requirements
+- Leadership behavior
+- Role expectations
+
+Promotion decisions are not based solely on length of service.
+
+Employees may discuss career progression with their manager or People
+Operations Business Partner.
+
+
+============================================================
+29. INTERNAL TRANSFERS
+============================================================
+
+Employees may apply for internal roles.
+
+Employees generally should have completed at least six months in their current
+role before requesting an internal transfer.
+
+Exceptions may be approved when there is a strong business reason.
+
+The current manager and hiring manager should coordinate transition timing.
+
+Employees must not be prevented from applying for an internal role solely
+because they expressed interest in career development.
+
+
+============================================================
+30. COMPENSATION
+============================================================
+
+Employee compensation may include:
+
+- Base salary
+- Variable pay
+- Bonus
+- Allowances
+- Equity or long-term incentives where applicable
+
+Compensation depends on role, level, experience, performance, market data,
+and business considerations.
+
+
+============================================================
+31. SALARY PAYMENT
+============================================================
+
+Employees are normally paid monthly.
+
+Salary is generally credited on the last working day of the month.
+
+If the last working day falls on a bank holiday or processing issue occurs,
+payment may be processed on the preceding or following working day.
+
+Employees should contact Payroll if salary is not received within the expected
+payment window.
+
+
+============================================================
+32. BONUS AND VARIABLE PAY
+============================================================
+
+Certain roles may be eligible for variable compensation.
+
+Variable compensation may depend on:
+
+- Individual performance
+- Team performance
+- Company performance
+- Customer outcomes
+- Business results
+
+Eligibility and calculation methods are defined in the employee's
+compensation plan.
+
+Variable compensation is not guaranteed unless specifically stated in a
+contractual agreement.
+
+
+============================================================
+33. OVERTIME
+============================================================
+
+Certain employees may be eligible for overtime according to applicable law
+and employment arrangements.
+
+Employees should not work significant additional hours regularly without
+manager awareness.
+
+Overtime eligibility varies by role.
+
+Employees should consult People Operations for role-specific rules.
+
+
+============================================================
+34. EXPENSE REIMBURSEMENT
+============================================================
+
+Employees may claim reimbursement for approved business expenses.
+
+Common reimbursable expenses include:
+
+- Business travel
+- Customer meetings
+- Approved conferences
+- Business meals
+- Local transportation
+- Approved software
+- Business equipment
+- Professional training
+
+Employees should submit expenses within 30 days.
+
+Receipts are required unless an exception is documented.
+
+Expenses must have a legitimate business purpose.
+
+
+============================================================
+35. BUSINESS TRAVEL
+============================================================
+
+Business travel requires prior approval except in genuine emergencies.
+
+Employees should use company-approved travel providers when available.
+
+Domestic flights should normally be booked in economy class.
+
+Hotel expenses should be reasonable and appropriate for the destination.
+
+Employees should not select luxury accommodation without approval.
+
+Travel expenses must be submitted within 30 days after returning from the
+business trip.
+
+
+============================================================
+36. LEARNING AND DEVELOPMENT
+============================================================
+
+Nexora provides employees with opportunities to improve professional skills.
+
+Learning programs may include:
+
+- Technical training
+- Leadership development
+- Communication workshops
+- Certification programs
+- Conferences
+- Internal mentoring
+- External courses
+
+Eligible employees receive an annual learning allowance of INR 25,000.
+
+Unused learning allowance generally does not carry forward.
+
+
+============================================================
+37. EDUCATION ASSISTANCE
+============================================================
+
+Employees may request education assistance for courses relevant to their
+current role or a reasonable future career path within Nexora.
+
+Examples include:
+
+- Cloud certifications
+- Programming certifications
+- Security certifications
+- Product management courses
+- Data science programs
+- Leadership programs
+
+Pre-approval is required.
+
+Employees should not enroll in expensive programs assuming reimbursement
+will be provided.
+
+
+============================================================
+38. EMPLOYEE BENEFITS
+============================================================
+
+Eligible employees may receive:
+
+- Health insurance
+- Personal accident insurance
+- Life insurance
+- Retirement benefits
+- Learning allowance
+- Internet reimbursement
+- Wellness benefits
+- Employee assistance services
+
+
+============================================================
+39. HEALTH INSURANCE
+============================================================
+
+The standard group health insurance coverage is INR 5,00,000 per policy year.
+
+Eligible dependents may be added according to the insurance plan.
+
+Potential dependents include:
+
+- Spouse
+- Children
+- Parents
+
+Coverage is subject to the insurance provider's terms.
+
+Employees should contact the Benefits Team for:
+
+- Policy documents
+- Network hospital information
+- Claims
+- Reimbursement
+- Dependent enrollment
+- Coverage questions
+
+
+============================================================
+40. MENTAL HEALTH AND WELLNESS
+============================================================
+
+Nexora supports employee wellbeing.
+
+The company provides access to confidential wellbeing resources.
+
+Programs may include:
+
+- Counseling sessions
+- Mental health consultations
+- Wellness workshops
+- Meditation programs
+- Fitness initiatives
+- Stress management sessions
+
+Participation in wellbeing programs is generally voluntary.
+
+Managers should not request confidential medical or counseling information
+from employees.
+
+
+============================================================
+41. EMPLOYEE ASSISTANCE PROGRAM
+============================================================
+
+Employees may use the Employee Assistance Program for confidential support.
+
+Services may include:
+
+- Emotional support
+- Financial guidance
+- Legal information
+- Family support
+- Workplace counseling
+
+Employees can contact the EAP provider directly using the details available
+on the internal Benefits Portal.
+
+
+============================================================
+42. INTERNET REIMBURSEMENT
+============================================================
+
+Eligible remote employees may claim up to INR 1,500 per month for home
+internet expenses.
+
+Employees must provide acceptable documentation.
+
+Mobile phone reimbursement may be available for roles requiring frequent
+business communication.
+
+Reimbursement is subject to applicable tax rules.
+
+
+============================================================
+43. COMPANY EQUIPMENT
+============================================================
+
+Nexora may provide:
+
+- Laptop
+- Monitor
+- Keyboard
+- Mouse
+- Headset
+- Security key
+- Other role-specific equipment
+
+Employees are responsible for protecting company equipment.
+
+Employees must not:
+
+- Sell company equipment
+- Give equipment to unauthorized people
+- Install unauthorized hardware
+- Remove security controls
+- Intentionally damage equipment
+
+
+============================================================
+44. INFORMATION SECURITY
+============================================================
+
+Employees must protect company and customer information.
+
+Security responsibilities include:
+
+- Protecting passwords
+- Using MFA
+- Locking devices
+- Reporting phishing
+- Using approved software
+- Protecting confidential files
+- Reporting security incidents
+
+Security incidents should be reported immediately.
+
+Employees should contact:
+
+Security Operations:
+security@nexora.example
+
+
+============================================================
+45. PASSWORD AND MFA POLICY
+============================================================
+
+Employees must use unique passwords.
+
+Passwords must not be shared.
+
+Employees must use multi-factor authentication when required.
+
+Security keys, authenticator applications, or approved authentication methods
+may be used.
+
+Employees must immediately report suspected account compromise.
+
+Examples include:
+
+- Unexpected password reset
+- Unknown login notification
+- Suspicious MFA request
+- Lost authentication device
+
+
+============================================================
+46. ACCEPTABLE USE OF TECHNOLOGY
+============================================================
+
+Company systems are primarily for business purposes.
+
+Employees must not use company systems to:
+
+- Perform illegal activities
+- Attack external systems
+- Install malware
+- Circumvent security
+- Access unauthorized data
+- Harass others
+- Conduct unauthorized commercial activities
+- Store confidential data on personal cloud services
+
+
+============================================================
+47. ARTIFICIAL INTELLIGENCE USAGE POLICY
+============================================================
+
+Nexora permits responsible use of approved artificial intelligence tools.
+
+Employees must not paste confidential company information into public AI
+systems unless the tool has been approved for that data classification.
+
+Examples of information that should not be entered into unapproved AI tools:
+
+- Customer personal information
+- Production credentials
+- Source code marked confidential
+- Security vulnerabilities
+- Internal financial information
+- Employee personal information
+- Unreleased product information
+
+Employees may use approved AI tools for:
+
+- Brainstorming
+- Drafting
+- Summarization
+- Code assistance
+- Documentation
+- Data analysis
+
+AI-generated output must be reviewed by a human before being used in
+customer-facing or high-impact work.
+
+Employees remain responsible for the accuracy of work produced with AI
+assistance.
+
+
+============================================================
+48. DATA PRIVACY
+============================================================
+
+Employees must handle personal information responsibly.
+
+Personal information may include:
+
+- Name
+- Address
+- Phone number
+- Email
+- Financial information
+- Health information
+- Identification information
+- Employment records
+
+Employees should only access personal information required for their role.
+
+Unauthorized access may result in disciplinary action.
+
+
+============================================================
+49. CONFIDENTIAL INFORMATION
+============================================================
+
+Confidential information includes:
+
+- Source code
+- Product roadmaps
+- Customer data
+- Pricing
+- Contracts
+- Financial forecasts
+- Security information
+- Employee records
+- Internal strategy
+- Trade secrets
+
+Employees must protect confidential information during and after employment.
+
+
+============================================================
+50. INTELLECTUAL PROPERTY
+============================================================
+
+Employees must respect company and third-party intellectual property.
+
+Software, documentation, designs, inventions, or other work created as part
+of employment may be subject to company ownership provisions described in
+employment agreements and applicable law.
+
+
+============================================================
+51. OPEN SOURCE SOFTWARE
+============================================================
+
+Nexora supports responsible open-source participation.
+
+Employees may contribute to open-source projects when participation does not:
+
+- Conflict with company interests
+- Reveal confidential information
+- Violate customer agreements
+- Create intellectual property conflicts
+
+Company source code must not be released publicly without authorization.
+
+
+============================================================
+52. SOCIAL MEDIA POLICY
+============================================================
+
+Employees may use social media personally.
+
+Employees should not imply that their personal opinions represent official
+Nexora positions.
+
+Employees must not publish:
+
+- Confidential company information
+- Customer information
+- Internal screenshots
+- Security incidents
+- Private employee information
+
+Employees working as authorized company representatives may publish approved
+company content according to Communications guidelines.
+
+
+============================================================
+53. CODE OF CONDUCT
+============================================================
+
+Every employee is expected to behave honestly, professionally, and
+respectfully.
+
+Employees must:
+
+- Treat colleagues fairly
+- Follow company policies
+- Protect confidential information
+- Avoid conflicts of interest
+- Report misconduct
+- Communicate honestly
+- Respect customer commitments
+- Protect company property
+
+Employees must not intentionally misrepresent information.
+
+
+============================================================
+54. RESPECTFUL WORKPLACE
+============================================================
+
+Nexora expects employees to maintain a respectful workplace.
+
+Unacceptable behavior may include:
+
+- Bullying
+- Threatening behavior
+- Intimidation
+- Repeated insulting comments
+- Deliberate humiliation
+- Abusive communication
+
+Reasonable disagreement and professional criticism are not automatically
+considered misconduct.
+
+Context and behavior patterns may be considered during an investigation.
+
+
+============================================================
+55. ANTI-HARASSMENT POLICY
+============================================================
+
+Harassment is not permitted.
+
+Harassment may include unwelcome verbal, physical, written, or digital
+behavior that violates company policy or applicable law.
+
+Employees who experience or witness harassment may report it to:
+
+- Manager
+- People Operations
+- Ethics Hotline
+- Employee Relations Team
+
+
+============================================================
+56. ANTI-DISCRIMINATION POLICY
+============================================================
+
+Nexora prohibits discrimination based on protected characteristics under
+applicable law.
+
+Employment decisions should be based on legitimate job-related factors such
+as qualifications, performance, role requirements, and business needs.
+
+
+============================================================
+57. PREVENTION OF SEXUAL HARASSMENT
+============================================================
+
+Nexora maintains a separate Prevention of Sexual Harassment policy.
+
+Employees may report concerns through the Internal Committee.
+
+The Internal Committee handles complaints according to applicable law and
+company procedures.
+
+Employees should not retaliate against a person who raises a complaint in
+good faith.
+
+
+============================================================
+58. CONFLICTS OF INTEREST
+============================================================
+
+Employees must avoid situations where personal interests conflict with their
+responsibilities to Nexora.
+
+Potential conflicts include:
+
+- Working for a direct competitor
+- Owning a significant financial interest in a vendor
+- Hiring a close family member without disclosure
+- Accepting inappropriate benefits from suppliers
+- Using company opportunities for personal gain
+
+Potential conflicts should be disclosed to the manager or People Operations.
+
+
+============================================================
+59. GIFTS AND ENTERTAINMENT
+============================================================
+
+Employees may receive modest business gifts when they do not influence
+business decisions.
+
+Employees must not accept gifts that create an expectation of favorable
+treatment.
+
+Cash gifts are generally prohibited.
+
+Gifts valued above INR 5,000 require disclosure to Compliance.
+
+Employees should decline gifts that may create an actual or perceived
+conflict of interest.
+
+
+============================================================
+60. ANTI-BRIBERY AND CORRUPTION
+============================================================
+
+Nexora prohibits bribery and corruption.
+
+Employees must not offer, promise, authorize, or accept improper payments
+to influence business decisions.
+
+This applies to dealings with:
+
+- Customers
+- Vendors
+- Government officials
+- Partners
+- Consultants
+- Agents
+
+Suspected bribery should be reported immediately to Legal or Compliance.
+
+
+============================================================
+61. WHISTLEBLOWER POLICY
+============================================================
+
+Employees may report suspected serious misconduct.
+
+Reports may involve:
+
+- Fraud
+- Bribery
+- Financial misconduct
+- Serious safety concerns
+- Security violations
+- Retaliation
+- Serious policy violations
+
+Good-faith reports are protected from retaliation.
+
+Reports can be submitted through the Ethics Hotline or Compliance Team.
+
+
+============================================================
+62. REPORTING WORKPLACE CONCERNS
+============================================================
+
+Employees have multiple reporting channels.
+
+Employees may contact:
+
+1. Direct Manager
+2. Skip-Level Manager
+3. People Operations
+4. Employee Relations
+5. Ethics Hotline
+6. Legal
+7. Security Operations
+
+Employees do not need to report a concern to their direct manager when the
+manager is involved in the concern.
+
+
+============================================================
+63. DISCIPLINARY POLICY
+============================================================
+
+Policy violations may result in corrective or disciplinary action.
+
+Possible actions include:
+
+- Coaching
+- Written warning
+- Final warning
+- Suspension where permitted
+- Termination of employment
+
+The response depends on factors including:
+
+- Nature of the conduct
+- Severity
+- Intent
+- Previous history
+- Business impact
+- Applicable law
+
+
+============================================================
+64. INVESTIGATION PROCESS
+============================================================
+
+When a serious concern is reported, Nexora may conduct an investigation.
+
+An investigation may include:
+
+1. Receiving the complaint
+2. Initial assessment
+3. Identifying relevant documents
+4. Interviewing relevant individuals
+5. Reviewing system records
+6. Evaluating evidence
+7. Preparing findings
+8. Determining appropriate action
+
+Investigations should be handled as confidentially as practical.
+
+Confidentiality does not guarantee that information will never be disclosed.
+
+
+============================================================
+65. RETALIATION
+============================================================
+
+Retaliation against employees who make good-faith reports or participate in
+investigations is prohibited.
+
+Retaliation may include:
+
+- Threats
+- Unjustified punishment
+- Harassment
+- Intentionally reducing responsibilities as punishment
+- Blocking legitimate opportunities because of a report
+
+Employees who believe they are experiencing retaliation should contact
+Employee Relations or the Ethics Team.
+
+
+============================================================
+66. GRIEVANCE PROCESS
+============================================================
+
+Employees who have workplace concerns should first consider discussing the
+matter with their manager when appropriate.
+
+If the issue cannot be resolved, employees may contact People Operations.
+
+A formal grievance may include:
+
+- Description of the issue
+- Relevant dates
+- Individuals involved
+- Supporting documents
+- Requested resolution
+
+People Operations may investigate and provide an appropriate response.
+
+
+============================================================
+67. MANAGER RESPONSIBILITIES
+============================================================
+
+Managers are expected to:
+
+- Set clear expectations
+- Provide feedback
+- Support employee development
+- Approve leave fairly
+- Maintain confidentiality
+- Address workplace concerns
+- Escalate serious issues
+- Avoid retaliation
+- Apply policies consistently
+
+Managers should not promise specific disciplinary outcomes before an
+investigation is completed.
+
+
+============================================================
+68. EMPLOYEE RESPONSIBILITIES
+============================================================
+
+Employees are responsible for:
+
+- Performing assigned work
+- Following policies
+- Protecting company information
+- Maintaining professional behavior
+- Reporting concerns
+- Completing required training
+- Maintaining accurate employee records
+- Taking care of company property
+
+
+============================================================
+69. OFFICE SAFETY
+============================================================
+
+Employees should follow office safety requirements.
+
+Employees should report:
+
+- Unsafe conditions
+- Injuries
+- Fire hazards
+- Electrical hazards
+- Security incidents
+
+Emergency exits must remain unobstructed.
+
+
+============================================================
+70. EMERGENCY PROCEDURES
+============================================================
+
+In case of emergency, employees should prioritize personal safety.
+
+Emergency situations may include:
+
+- Fire
+- Natural disaster
+- Medical emergency
+- Security threat
+- Building evacuation
+
+Employees should follow instructions from building security and emergency
+personnel.
+
+
+============================================================
+71. DRUG AND ALCOHOL POLICY
+============================================================
+
+Employees must not report to work impaired by illegal drugs or alcohol.
+
+Alcohol may only be consumed at company events where permitted by law and
+company event rules.
+
+Employees are expected to behave professionally at company events.
+
+
+============================================================
+72. DRESS AND PROFESSIONAL APPEARANCE
+============================================================
+
+Nexora generally follows a smart-casual workplace environment.
+
+Employees should dress appropriately for:
+
+- Customer meetings
+- Interviews
+- Presentations
+- Formal events
+- Office requirements
+
+Certain roles may have additional safety or appearance requirements.
+
+
+============================================================
+73. WORKPLACE VISITORS
+============================================================
+
+Visitors must follow building security requirements.
+
+Visitors may need to:
+
+- Register at reception
+- Present identification
+- Wear a visitor badge
+- Remain accompanied in restricted areas
+
+Visitors must not access confidential systems.
+
+
+============================================================
+74. SECURITY ACCESS CARDS
+============================================================
+
+Employees must use their own access card.
+
+Employees must not:
+
+- Share access cards
+- Allow unauthorized tailgating
+- Copy access cards
+- Use another employee's card
+
+Lost access cards should be reported to Workplace Services immediately.
+
+
+============================================================
+75. PARKING AND TRANSPORTATION
+============================================================
+
+Parking availability varies by office.
+
+Parking spaces may be assigned according to office rules.
+
+Employees must follow building parking requirements.
+
+Nexora is not responsible for unauthorized parking fines unless otherwise
+stated in a specific office policy.
+
+
+============================================================
+76. REMOTE WORKSPACE SECURITY
+============================================================
+
+Remote employees should:
+
+- Use private Wi-Fi where possible
+- Avoid public computers
+- Use company VPN when required
+- Lock devices
+- Avoid discussing confidential information in public
+- Store documents only in approved systems
+
+Employees should not allow family members or friends to use company laptops.
+
+
+============================================================
+77. TRAVEL SECURITY
+============================================================
+
+Employees traveling for business should follow company travel security
+guidance.
+
+Employees should protect:
+
+- Company devices
+- Travel documents
+- Confidential information
+- Credentials
+
+International travel may require additional security review.
+
+
+============================================================
+78. CUSTOMER INTERACTION
+============================================================
+
+Employees interacting with customers represent Nexora.
+
+Employees should:
+
+- Communicate professionally
+- Avoid unauthorized commitments
+- Protect customer information
+- Escalate serious complaints
+- Document important decisions
+
+Employees should not disclose internal company information to customers
+unless authorized.
+
+
+============================================================
+79. MEDIA AND PUBLIC STATEMENTS
+============================================================
+
+Only authorized employees may speak on behalf of Nexora to the media.
+
+Media inquiries should be directed to the Communications Team.
+
+Employees may express personal opinions but should not present themselves as
+official Nexora representatives without authorization.
+
+
+============================================================
+80. COMPANY EVENTS
+============================================================
+
+Nexora may organize:
+
+- Team events
+- Annual celebrations
+- Offsites
+- Conferences
+- Workshops
+- Hackathons
+- Sports activities
+
+Employees are expected to follow the Code of Conduct at company events.
+
+Company events are considered workplace environments for purposes of relevant
+company policies.
+
+
+============================================================
+81. EMPLOYEE RECOGNITION
+============================================================
+
+Nexora recognizes employees through programs such as:
+
+- Peer recognition
+- Customer appreciation
+- Innovation awards
+- Leadership awards
+- Long-service recognition
+
+Recognition programs may change annually.
+
+
+============================================================
+82. EMPLOYEE REFERRAL PROGRAM
+============================================================
+
+Employees may refer candidates for open positions.
+
+Referral bonuses may be available for selected roles.
+
+The referring employee must disclose any personal relationship with the
+candidate where appropriate.
+
+Employees involved in hiring decisions should not receive referral bonuses
+for candidates they directly evaluate unless specifically approved.
+
+
+============================================================
+83. INTERNSHIP PROGRAM
+============================================================
+
+Nexora offers internships for students and early-career professionals.
+
+Internships generally last between 8 and 24 weeks.
+
+Interns may receive:
+
+- Stipend
+- Mentor support
+- Training
+- Project experience
+- Certificate of completion
+
+Interns must follow company security and confidentiality policies.
+
+
+============================================================
+84. CONTRACTOR POLICY
+============================================================
+
+Contractors must comply with relevant:
+
+- Security requirements
+- Confidentiality requirements
+- Workplace policies
+- Customer requirements
+
+Contractors may only access systems required for their work.
+
+Access should be removed when the contract ends.
+
+
+============================================================
+85. SEPARATION FROM EMPLOYMENT
+============================================================
+
+Employment may end through:
+
+- Resignation
+- Mutual separation
+- Retirement
+- End of fixed-term contract
+- Termination
+- Other legally recognized circumstances
+
+Employees must complete the applicable exit process.
+
+
+============================================================
+86. RESIGNATION
+============================================================
+
+Employees who resign should submit a written resignation through the HR
+system or according to their employment agreement.
+
+The resignation should include the intended last working day.
+
+The manager and People Operations will confirm the applicable notice period.
+
+
+============================================================
+87. NOTICE PERIOD
+============================================================
+
+The standard notice period for full-time employees is 60 calendar days unless
+the employment agreement specifies otherwise.
+
+Some senior roles may have longer notice periods.
+
+The company may approve an earlier release.
+
+Early release is not automatic and may depend on:
+
+- Business requirements
+- Handover completion
+- Replacement availability
+- Manager approval
+
+
+============================================================
+88. EXIT PROCESS
+============================================================
+
+The exit process normally includes:
+
+1. Resignation submission
+2. Notice period confirmation
+3. Knowledge transfer
+4. Asset return
+5. Access removal
+6. Exit interview
+7. Final payroll processing
+8. Benefits closure
+9. Employment documentation
+
+Employees should complete all required handover activities.
+
+
+============================================================
+89. FINAL SETTLEMENT
+============================================================
+
+Final settlement may include:
+
+- Salary through last working day
+- Eligible leave payout
+- Approved expense reimbursement
+- Applicable deductions
+- Other contractual payments
+
+The exact timing depends on payroll processing and completion of required
+exit documentation.
+
+
+============================================================
+90. RETURN OF COMPANY PROPERTY
+============================================================
+
+Employees leaving Nexora must return company property.
+
+This may include:
+
+- Laptop
+- Monitor
+- Security key
+- Access card
+- Company phone
+- Documents
+- Other equipment
+
+Failure to return company property may delay completion of the exit process
+where legally permitted.
+
+
+============================================================
+91. EMPLOYMENT VERIFICATION
+============================================================
+
+Employment verification requests should be sent to the People Operations
+verification team.
+
+The company generally confirms employment information according to its
+verification procedure.
+
+Managers should not independently provide unofficial employment verification
+on behalf of Nexora.
+
+
+============================================================
+92. REHIRE POLICY
+============================================================
+
+Former employees may be considered for rehire depending on:
+
+- Previous performance
+- Reason for departure
+- Conduct history
+- Business needs
+- Current role requirements
+
+Employees who left while under serious disciplinary investigation may be
+subject to additional review.
+
+
+============================================================
+93. POLICY EXCEPTIONS
+============================================================
+
+Policy exceptions require appropriate approval.
+
+Employees should not assume that a manager can override every People
+Operations policy.
+
+Depending on the policy, approval may be required from:
+
+- Manager
+- Department Head
+- People Operations
+- Legal
+- Finance
+- Security
+- Executive Leadership
+
+Exceptions should normally be documented.
+
+
+============================================================
+94. POLICY CHANGES
+============================================================
+
+Nexora may update policies when business, legal, regulatory, or operational
+requirements change.
+
+Employees will be notified of material policy changes through approved
+internal communication channels.
+
+The latest approved policy version takes precedence over older versions.
+
+
+============================================================
+95. FREQUENTLY ASKED QUESTIONS
+============================================================
+
+QUESTION:
+How many annual leave days do I receive?
+
+ANSWER:
+Full-time employees normally receive 24 paid annual leave days per calendar
+year.
+
+QUESTION:
+How many sick leave days do I receive?
+
+ANSWER:
+Employees normally receive 12 paid sick leave days per calendar year.
+
+QUESTION:
+Can I work from home?
+
+ANSWER:
+Eligible employees may work remotely according to their team's approved
+hybrid arrangement.
+
+QUESTION:
+How many days must I work from the office?
+
+ANSWER:
+The standard hybrid policy requires at least two office days per week for
+eligible hybrid employees. Individual teams may have additional requirements.
+
+QUESTION:
+Can I work from another city?
+
+ANSWER:
+Temporary work from another Indian city may be permitted for up to 30
+calendar days per year with manager approval.
+
+QUESTION:
+Can I work from another country?
+
+ANSWER:
+International remote work requires prior written authorization because tax,
+legal, employment, security, and immigration requirements may apply.
+
+QUESTION:
+What is the notice period?
+
+ANSWER:
+The standard notice period is 60 calendar days unless the employee's
+employment agreement specifies a different period.
+
+QUESTION:
+How much health insurance do I receive?
+
+ANSWER:
+The standard company-sponsored health insurance coverage is INR 5,00,000
+per policy year for eligible employees.
+
+QUESTION:
+Can I claim internet expenses?
+
+ANSWER:
+Eligible remote employees may claim up to INR 1,500 per month subject to
+documentation and applicable policy requirements.
+
+QUESTION:
+What is the annual learning allowance?
+
+ANSWER:
+Eligible employees receive an annual learning allowance of INR 25,000.
+
+QUESTION:
+Can I use ChatGPT or another AI tool for work?
+
+ANSWER:
+Employees may use approved AI tools according to the AI Usage Policy.
+Confidential, personal, customer, security-sensitive, or restricted
+information must not be entered into unapproved public AI systems.
+
+QUESTION:
+Who do I contact if I experience harassment?
+
+ANSWER:
+Employees may contact People Operations, Employee Relations, the Internal
+Committee where applicable, or the Ethics Hotline.
+
+QUESTION:
+Can I report a concern anonymously?
+
+ANSWER:
+Certain concerns may be submitted through the Ethics Hotline using the
+available anonymous reporting mechanism.
+
+QUESTION:
+What happens if I violate company policy?
+
+ANSWER:
+The company may take corrective or disciplinary action depending on the
+nature and severity of the violation.
+
+QUESTION:
+Can I apply for another internal position?
+
+ANSWER:
+Eligible employees may apply for internal positions. Employees generally
+should have completed at least six months in their current role unless an
+exception is approved.
+
+QUESTION:
+How long does probation last?
+
+ANSWER:
+The standard probation period is six months.
+
+QUESTION:
+Can probation be extended?
+
+ANSWER:
+Yes. Probation may be extended when additional evaluation is required.
+
+QUESTION:
+Can I take leave without approval?
+
+ANSWER:
+Employees should obtain approval before planned leave. Emergency situations
+should be communicated to the manager as soon as reasonably possible.
+
+QUESTION:
+What happens to unused annual leave?
+
+ANSWER:
+Up to 12 unused annual leave days may normally be carried into the following
+calendar year, subject to applicable rules.
+
+QUESTION:
+Who should I contact if my salary is incorrect?
+
+ANSWER:
+Employees should contact Payroll or People Operations through the HR support
+portal.
+
+QUESTION:
+What should I do if my company laptop is stolen?
+
+ANSWER:
+Immediately report the incident to IT and Security Operations and provide
+the required details.
+
+QUESTION:
+Can I install software on my company laptop?
+
+ANSWER:
+Only approved or authorized software should be installed on company devices.
+
+QUESTION:
+Can I share my company password with IT?
+
+ANSWER:
+No. Employees must never share passwords. IT should use approved support
+procedures instead.
+
+QUESTION:
+Can I use company data with an AI tool?
+
+ANSWER:
+Only approved AI tools may be used for company data, and employees must
+follow data classification requirements.
+
+QUESTION:
+Can I accept a gift from a vendor?
+
+ANSWER:
+Modest gifts may be acceptable when they do not influence business decisions.
+Gifts above INR 5,000 must be disclosed to Compliance.
+
+QUESTION:
+Can I work for another company while working at Nexora?
+
+ANSWER:
+Employees must disclose potential conflicts of interest. Outside employment
+that conflicts with Nexora responsibilities or interests may not be permitted.
+
+QUESTION:
+Who can speak to the media?
+
+ANSWER:
+Only authorized company representatives may speak on behalf of Nexora.
+
+
+============================================================
+96. HR CONTACT DIRECTORY
+============================================================
+
+PEOPLE OPERATIONS
+
+Email:
+people@nexora.example
+
+For:
+
+- General HR questions
+- Leave questions
+- Employee records
+- Workplace policies
+- Benefits
+
+
+EMPLOYEE RELATIONS
+
+Email:
+employee-relations@nexora.example
+
+For:
+
+- Workplace concerns
+- Grievances
+- Employee relations matters
+- Conflict resolution
+
+
+PAYROLL
+
+Email:
+payroll@nexora.example
+
+For:
+
+- Salary questions
+- Payroll discrepancies
+- Tax documents
+- Salary statements
+
+
+BENEFITS TEAM
+
+Email:
+benefits@nexora.example
+
+For:
+
+- Health insurance
+- Dependents
+- Insurance claims
+- Wellness benefits
+
+
+IT SUPPORT
+
+Email:
+it-support@nexora.example
+
+For:
+
+- Laptop issues
+- Account problems
+- Software access
+- Hardware
+
+
+SECURITY OPERATIONS
+
+Email:
+security@nexora.example
+
+For:
+
+- Security incidents
+- Lost devices
+- Phishing
+- Account compromise
+- Suspicious activity
+
+
+LEGAL AND COMPLIANCE
+
+Email:
+legal@nexora.example
+
+For:
+
+- Legal questions
+- Conflicts of interest
+- Compliance concerns
+- Anti-bribery questions
+
+
+ETHICS HOTLINE
+
+Email:
+ethics@nexora.example
+
+For:
+
+- Serious misconduct
+- Fraud
+- Retaliation
+- Ethical concerns
+- Compliance concerns
+
+
+WORKPLACE SERVICES
+
+Email:
+workplace@nexora.example
+
+For:
+
+- Office access
+- Parking
+- Facilities
+- Visitor access
+- Workplace safety
+
+
+============================================================
+97. GLOSSARY
+============================================================
+
+ANNUAL LEAVE
+
+Paid time off normally used for vacation or personal purposes.
+
+PROBATION
+
+An initial employment period during which performance and suitability are
+evaluated.
+
+PIP
+
+Performance Improvement Plan.
+
+People Operations
+
+The function responsible for employee experience, HR processes, policies,
+benefits, and employee relations.
+
+MANAGER
+
+The person responsible for an employee's day-to-day management.
+
+CORE HOURS
+
+The standard period during which employees are expected to be available for
+collaboration.
+
+CONFIDENTIAL INFORMATION
+
+Information that is not publicly available and requires protection.
+
+PERSONAL DATA
+
+Information relating to an identified or identifiable individual.
+
+MFA
+
+Multi-Factor Authentication.
+
+EAP
+
+Employee Assistance Program.
+
+INTERNAL COMMITTEE
+
+The committee responsible for handling applicable workplace sexual harassment
+complaints according to relevant law and company procedures.
+
+NOTICE PERIOD
+
+The period between resignation and the employee's final working day.
+
+FINAL SETTLEMENT
+
+The process of calculating and paying eligible amounts when employment ends.
+
+WHISTLEBLOWER
+
+A person who reports suspected misconduct or wrongdoing.
+
+RETALIATION
+
+Adverse treatment directed at a person because they raised a concern or
+participated in an investigation.
+
+
+============================================================
+DOCUMENT CONTROL
+============================================================
+
+Document Name:
+Nexora Technologies Employee Handbook
+
+Document ID:
+NEXORA-HR-HANDBOOK-2026
+
+Version:
+4.2
+
+Effective Date:
+1 October 2026
+
+Owner:
+People Operations
+
+Approved By:
+Chief People Officer
+
+Review Frequency:
+Every six months
+
+Next Review:
+1 April 2027
+
+Status:
+Active
+
+End of Document
