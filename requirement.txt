@@ -10,3 +10,5 @@ uvicorn
 faiss-cpu
 python-dotenv
 ipykernel
+portkey-ai
+langchain-openai

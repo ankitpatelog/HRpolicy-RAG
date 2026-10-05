@@ -11,10 +11,6 @@ def main():
 
     demo_questions = [
         "What is the company's leave policy?",
-        "How do I apply for paternity leave?",
-        "Who should I contact regarding payroll queries?",
-        "Is there a remote work policy?",
-        "What are the official holidays for this year?"
     ]
 
     for q in demo_questions:

@@ -1,4 +1,5 @@
 import os
+from tracemalloc import is_tracing
 
 from langchain_community.document_loaders import TextLoader
 from pydantic import FilePath
@@ -8,7 +9,7 @@ from hr_assistant import config
 from typing import List
 from langchain_core.documents import Document
 
-from logger import logger
+# from logger import logger
 
 def load_documents(file_path: str = config.DATA_FILE_PATH) -> List[Document]:
     """
@@ -27,9 +28,9 @@ def load_documents(file_path: str = config.DATA_FILE_PATH) -> List[Document]:
     if not os.path.isfile(file_path):
         raise FileNotFoundError(f"The file {file_path} does not exist.")
 
-    logger.info("Text Loader started")
+    # logger.info("Text Loader started")
     loader = TextLoader(file_path, encoding="utf-8")
-    documents = loader.lo4ad()
+    documents = loader.load()
     
     if not documents:
         raise ValueError(f"No documents were loaded from {file_path}.")
@@ -37,4 +38,15 @@ def load_documents(file_path: str = config.DATA_FILE_PATH) -> List[Document]:
     return documents
     
 
-    
+# langsmith tracing check wherter the tracing is on or off
+
+def check_langsmith_tracing() -> None:
+    """
+    Check if LangSmith tracing is enabled and log the status.
+    """
+    from hr_assistant.logger import logger
+
+    if config.LANGSMITH_TRACING and config.LANGSMITH_API_KEY:
+        logger.info("LangSmith tracing is ENABLED.")
+    else:
+        logger.info("LangSmith tracing is DISABLED.")
