@@ -16,7 +16,7 @@ class Settings:
 
     # Portkey
     PORTKEY_API_KEY = os.getenv("PORTKEY_API_KEY")
-    PORTKEY_CONFIG_ID = os.getenv("PORTKEY_CONFIG_ID")
+    PORTKEY_CONFIG_ID = os.getenv("PORTKEY_C ONFIG_ID")
 
 
 settings = Settings()
