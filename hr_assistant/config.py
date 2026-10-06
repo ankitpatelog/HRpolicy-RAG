@@ -110,12 +110,3 @@ def check_api_keys():
 
     if not settings.GROQ_API_KEY:
         raise ValueError("GROQ_API_KEY is not set")
-
-    if not settings.JINA_API_KEY:
-        raise ValueError("JINA_API_KEY is not set")
-
-    if not settings.PORTKEY_API_KEY:
-        raise ValueError("PORTKEY_API_KEY is not set")
-
-    if not settings.PORTKEY_CONFIG_ID:
-        raise ValueError("PORTKEY_CONFIG_ID is not set")
